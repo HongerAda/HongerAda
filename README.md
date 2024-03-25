@@ -14,9 +14,9 @@
 
 ### 02 组合图表
 
-[2021-2023御三家主机销量](https://hongerada.github.io/HongerAda/timeline_bar.html)
+[2021-2023御三家主机销量](https://hongerada.github.io/HongerAda/tab_base.html)
 
-使用2021-2023年的主机销量数据，对比PS5，Switch，Xbox在全球的销量表现。
+使用2021-2023年的主机销量数据，对比PS5，Switch，Xbox在全球的销量表现。并用柱状图和条形图两种形式呈现。
 
 ### 03 词频统计
 
