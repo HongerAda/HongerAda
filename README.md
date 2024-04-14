@@ -23,3 +23,13 @@
 [在细雨中呼喊-人名统计](https://hongerada.github.io/HongerAda/wordcloud_opts.html)
 
 使用余华的《在细雨中呼喊》小说文本，分析了出现频率最高的前16个人名，并做成词云的形式
+
+## 第二次作业
+
+### 00 搜索引擎网页
+
+### 01 人物共现图+网页呈现
+
+[《飘》中人物共现](https://hongerada.github.io/HongerAda/geo_graduate.html)
+在使用《在细雨中呼喊》作为文本时，由于小说为第一人称，所以主人公名字缺失，大多数角色的联系缺失，因此改为第三人称的小说《飘》
+
