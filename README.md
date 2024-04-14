@@ -28,8 +28,10 @@
 
 ### 00 搜索引擎网页
 
+[google搜索引擎网页](https://hongerada.github.io/HongerAda/00_%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E_Google.html)
+
 ### 01 人物共现图+网页呈现
 
-[《飘》中人物共现](https://hongerada.github.io/HongerAda/geo_graduate.html)
+[《飘》中人物共现](https://hongerada.github.io/HongerAda/飘人物共现图.html)
 在使用《在细雨中呼喊》作为文本时，由于小说为第一人称，所以主人公名字缺失，大多数角色的联系缺失，因此改为第三人称的小说《飘》
 
