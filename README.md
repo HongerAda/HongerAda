@@ -4,23 +4,23 @@
 
 ### 01 中国地图 世界地图
 
-[中国地图：高考毕业去向图](https://hongerada.github.io/HongerAda/geo_graduate.html)
+[中国地图：高考毕业去向图](https://hongerada.github.io/geo_graduate.html)
 
 中国地图是自己高中班级毕业后各个同学录取学校所在地分布作为数据，制作了从高中所在地流向全国各地的去向图。
 
-[世界地图：任天堂公司分布](https://hongerada.github.io/HongerAda/geo_Nintendo.html)
+[世界地图：任天堂公司分布](https://hongerada.github.io/geo_Nintendo.html)
 
 世界地图是任天堂公司在全球的主要分布：任天堂在全球共有27家分支机构，总员工数为6574人，办公室和员工分布于全球4个大洲。所有分公司中，任天堂亚洲区人数最多，为2498人，其中男性2011人，女性487人，公司总部设在京都；人数第二多的分公司为任天堂北美区，为1256人，其中男性798人，女性458人；分公司总部设在美国华盛顿州雷德蒙德镇；第三大的分公司为任天堂欧洲区，为901人，其中男性558人，女性343人；分公司总部设在德国巴伐利亚州大奥斯特海姆镇；人数最少的是任天堂澳大利亚区，总人数为91人，其中男性44人，女性47人，办公地点设在悉尼。
 
 ### 02 组合图表
 
-[2021-2023御三家主机销量](https://hongerada.github.io/HongerAda/tab_base.html)
+[2021-2023御三家主机销量](https://hongerada.github.io/tab_base.html)
 
 使用2021-2023年的主机销量数据，对比PS5，Switch，Xbox在全球的销量表现。并用柱状图和条形图两种形式呈现。
 
 ### 03 词频统计
 
-[在细雨中呼喊-人名统计](https://hongerada.github.io/HongerAda/wordcloud_opts.html)
+[在细雨中呼喊-人名统计](https://hongerada.github.io/wordcloud_opts.html)
 
 使用余华的《在细雨中呼喊》小说文本，分析了出现频率最高的前16个人名，并做成词云的形式
 
@@ -28,10 +28,11 @@
 
 ### 00 搜索引擎网页
 
-[google搜索引擎网页](https://hongerada.github.io/HongerAda/00_%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E_Google.html)
+[google搜索引擎网页](https://hongerada.github.io/00_%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E_Google.html)
 
 ### 01 人物共现图+网页呈现
 
-[《飘》中人物共现](https://hongerada.github.io/HongerAda/飘人物共现图.html)
+[《飘》中人物共现](https://hongerada.github.io/飘人物共现图.html)
+
 在使用《在细雨中呼喊》作为文本时，由于小说为第一人称，所以主人公名字缺失，大多数角色的联系缺失，因此改为第三人称的小说《飘》
 
